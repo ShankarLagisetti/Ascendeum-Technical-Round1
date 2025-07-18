@@ -9,7 +9,7 @@
 
 ## **How to Run the Program**
 
-1. Open `matrix.txt.py` in any Python 3 environment.
+1. Open `Spiral Matrix.py` in any Python 3 environment.
 2. Set the value of `n` as required.
 3. Run the script to generate the spiral matrix.
 
